@@ -1,7 +1,7 @@
 # Original Prompt
 
 **Status:** Original text used in the experiment  
-**Purpose:** Convert handwritten SEO notes into an article  
+**Purpose:** Convert handwritten notes into an organized summary
 **Input:** Images of handwritten notes  
 **Models tested:** Claude Opus, Gemini, and others  
 **Date tested:** 2026-08-16
