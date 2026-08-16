@@ -2,7 +2,7 @@
 
 This repository contains the materials and results for an experiment based on the article:
 
-**Handwriting Beats Typing for Memory—So I Made AI Read My Cursive**
+**Handwriting Beats Typing for Memory — So I Made AI Read My Cursive**
 
 The experiment tests whether AI models can turn handwritten study notes into a coherent article, using only the information visible in the supplied images.
 
