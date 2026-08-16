@@ -22,11 +22,6 @@ The notes were taken while watching a video about SEO in 2026. The central quest
 - [`results/`](results/) — model-specific outputs and observations.
 - [`notes/README.md`](notes/README.md) — information about the note images and their ordering.
 
-## Data availability
-
-The handwritten-note images used in this experiment are available upon request. They are not included in the repository because they may contain material derived from a third-party video. To request access, open a GitHub issue or contact the author through the email
-address associated with this GitHub account. 
-
 ## Experiment principles
 
 To make the comparison as consistent as possible, the models received:
@@ -37,6 +32,11 @@ To make the comparison as consistent as possible, the models received:
 - the same restriction against using outside SEO knowledge.
 
 The original prompt is preserved in full in [`prompts/original-prompt.md`](prompts/original-prompt.md). It is included as an archive of the instructions used during the experiment, not as a revised or optimized version.
+
+## Data availability
+
+The handwritten-note images used in this experiment are available upon request. They are not included in the repository because they may contain material derived from a third-party video. To request access, open a GitHub issue or contact the author through the email
+address associated with this GitHub account. 
 
 ## Licence
 
