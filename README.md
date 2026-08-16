@@ -35,7 +35,7 @@ The original prompt is preserved in full in [`prompts/original-prompt.md`](promp
 
 ## Licence
 
-Unless otherwise stated, the written materials, prompts, methodology, and results in this repository are licensed under the Creative [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Unless otherwise stated, the written materials, prompts, methodology, and results in this repository are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 Third-party materials are not necessarily covered by this license. This includes source videos, screenshots, images, trademarks, model names, and any other material belonging to their respective copyright holders or owners.
 
@@ -52,7 +52,3 @@ Please include:
 - a link to the original repository;
 - a link to the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/);
 - an indication of whether you changed the material.
-
-## Article
-
-[Read the Substack article](https://alicefedotova.substack.com)
